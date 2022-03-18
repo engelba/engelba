@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @engelba
-- 👀 I’m interested in every field of science.
-- 🌱 I’m currently learning C, Java and Python for academic purpose, and WebDev for personal purpose.
+- 🎓 I study Machine Learning at KTH (Sweden) and Signal & Image Processing at Grenoble INP - Phelma (France) 
+- 👀 I’m interested in science in general, but more specificly in mathematics and physic.
+- 🌱 I can code in C/C++, Java and Python. I always like to try new knowledge, so I know a little bit of Javascript, PHP, HTML/CSS.
