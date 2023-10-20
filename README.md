@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @engelba
-- 🎓 I study Machine Learning at KTH (Sweden) and Signal & Image Processing at Grenoble INP - Phelma (France) 
-- 👀 I’m interested in science in general, but more specificly in mathematics and physic.
-- 🌱 I can code in C/C++, Java and Python. I always like to try new knowledge, so I know a little bit of Javascript, PHP, HTML/CSS.
+- 🎓 I studied Machine Learning at KTH (Sweden) and Signal & Image Processing at Grenoble INP - Phelma (France). I am now a PhD student at the CEA Paris-Saclay. 
+- 👀 I’m currently working on means to perform generation of 3D representation, such as NeRFs and Gaussian Splatting.
+- 🌱 I mostly code in C/C++, JavaScript and Python.
