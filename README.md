@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @engelba
-- 🎓 I studied Machine Learning at KTH (Sweden) and Signal & Image Processing at Grenoble INP - Phelma (France). I am now a PhD student at the CEA Paris-Saclay. 
-- 👀 I’m currently working on means to perform generation of 3D representation, such as NeRFs and Gaussian Splatting.
-- 🌱 I mostly code in C/C++, JavaScript and Python.
+- 🎓 I am a PhD student at the CEA Paris-Saclay. I’m currently working on generation of 3D representation, such as NeRFs and Gaussian Splatting.
+- 🌱 I mostly code in C/C++, JavaScript and Python. I mainly use PyTorch in my work, but I'm always eager to learn new technos.
